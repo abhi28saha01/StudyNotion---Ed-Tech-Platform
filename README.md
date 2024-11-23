@@ -6,6 +6,7 @@ StudyNotion is a fully functional **Ed-Tech platform** that enables users to cre
 <ul>
   <li>A seamless and interactive learning experience for students, makingeducation more accessible and engaging</li>
   <li>A platform for instructors to showcase their expertise and connect withlearners across the globe.</li>
+  <li>The platform includes role-based actions tailored for specific roles, such as <b>teachers</b> and <b>students</b>. Teachers have permissions to create, update, and delete courses, while students are restricted to consuming content without modification privileges.</li>
 </ul>
 <br>
 <i>In the following sections, we will cover the technical details of the platform,including:</i>
